@@ -30,7 +30,7 @@ Skrip ini mengumpulkan data berikut untuk setiap pemain:
 
 ## Deskripsi File
 
-- `main.py`: Skrip utama yang berisi logika web scraping.
+- `mu_team.py`: Skrip utama yang berisi logika web scraping.
 - `mu_team.csv`: File CSV tempat data pemain yang di-scrape akan disimpan.
 - `mu_team.json`: File JSON tempat data pemain yang di-scrape akan disimpan.
 

@@ -3,7 +3,7 @@ Proyek ini berisi skrip Python untuk melakukan web scraping informasi tentang pe
 ## Fitur
 
 - Melakukan scraping data pemain dari beberapa halaman tim di situs resmi Manchester United
-- Mengambil detail seperti tim, posisi, nomor jersey, nama depan, nama belakang, nama lengkap, dan tautan pemain
+- Mengambil detail seperti tim, posisi, nomor jersey, nama depan, nama belakang, nama lengkap, tautan pemain dll
 - Menyimpan data yang di-scrape ke file CSV dan JSON
 
 ## Bahasa dan Library yang Digunakan
@@ -25,6 +25,9 @@ Skrip ini mengumpulkan data berikut untuk setiap pemain:
 - Nama Belakang
 - Nama Lengkap
 - Tautan Pemain
+- Biografi
+- Negara
+- Tanggal Lahir
 
 ## Deskripsi File
 
@@ -35,9 +38,9 @@ Skrip ini mengumpulkan data berikut untuk setiap pemain:
 ## Screenshot Hasil
 
 - JSON
-![image](https://github.com/NCholisM/manchester_united_player/assets/57277402/7715c610-f713-4b16-bddf-e098cebe3999)
+![image](https://github.com/NCholisM/manchester_united_player/assets/57277402/31f8dba9-9126-46d6-9125-c26fc7bded9c)
 
 - CSV
-![image](https://github.com/NCholisM/manchester_united_player/assets/57277402/42a66955-814e-4e17-a18d-499ab2d727dc)
+![image](https://github.com/NCholisM/manchester_united_player/assets/57277402/a6ae866a-0833-4755-8cfc-58eb643d7522)
 
-![image](https://github.com/NCholisM/manchester_united_player/assets/57277402/2f8fac1a-6739-451b-b2b8-9648218a3216)
+![image](https://github.com/NCholisM/manchester_united_player/assets/57277402/bed0ecda-0971-4a2b-a6f3-2aa5dac64e82)

@@ -1,105 +1,150 @@
-Team,Position,Jersey Number,First Name,Last Name,Full Name,Player Link
-Men,Goalkeepers,1,Altay,Bayindir,Altay Bayindir,https://www.manutd.com/en/players-and-staff/detail/altay-bayindir
-Men,Goalkeepers,22,Tom,Heaton,Tom Heaton,https://www.manutd.com/en/players-and-staff/detail/tom-heaton
-Men,Goalkeepers,24,Andre,Onana,Andre Onana,https://www.manutd.com/en/players-and-staff/detail/andre-onana
-Men,Defenders,2,Victor,Lindelof,Victor Lindelof,https://www.manutd.com/en/players-and-staff/detail/victor-lindelof
-Men,Defenders,5,Harry,Maguire,Harry Maguire,https://www.manutd.com/en/players-and-staff/detail/harry-maguire
-Men,Defenders,6,Lisandro,Martinez,Lisandro Martinez,https://www.manutd.com/en/players-and-staff/detail/lisandro-martinez
-Men,Defenders,12,Tyrell,Malacia,Tyrell Malacia,https://www.manutd.com/en/players-and-staff/detail/tyrell-malacia
-Men,Defenders,19,Raphael,Varane,Raphael Varane,https://www.manutd.com/en/players-and-staff/detail/raphael-varane
-Men,Defenders,20,Diogo,Dalot,Diogo Dalot,https://www.manutd.com/en/players-and-staff/detail/diogo-dalot
-Men,Defenders,23,Luke,Shaw,Luke Shaw,https://www.manutd.com/en/players-and-staff/detail/luke-shaw
-Men,Defenders,29,Aaron,Wan-Bissaka,Aaron Wan-Bissaka,https://www.manutd.com/en/players-and-staff/detail/aaron-wan-bissaka
-Men,Defenders,33,Brandon,Williams,Brandon Williams,https://www.manutd.com/en/players-and-staff/detail/brandon-williams
-Men,Defenders,35,Jonny,Evans,Jonny Evans,https://www.manutd.com/en/players-and-staff/detail/jonny-evans
-Men,Defenders,53,Willy,Kambwala,Willy Kambwala,https://www.manutd.com/en/players-and-staff/detail/willy-kambwala-first-team-profile
-Men,Midfielders,4,Sofyan,Amrabat,Sofyan Amrabat,https://www.manutd.com/en/players-and-staff/detail/sofyan-amrabat
-Men,Midfielders,7,Mason,Mount,Mason Mount,https://www.manutd.com/en/players-and-staff/detail/mason-mount
-Men,Midfielders,8,Bruno,Fernandes,Bruno Fernandes,https://www.manutd.com/en/players-and-staff/detail/bruno-fernandes
-Men,Midfielders,14,Christian,Eriksen,Christian Eriksen,https://www.manutd.com/en/players-and-staff/detail/christian-eriksen
-Men,Midfielders,16,Amad,,Amad ,https://www.manutd.com/en/players-and-staff/detail/amad-diallo
-Men,Midfielders,18,Casemiro,,Casemiro ,https://www.manutd.com/en/players-and-staff/detail/casemiro
-Men,Midfielders,28,Facundo,Pellistri,Facundo Pellistri,https://www.manutd.com/en/players-and-staff/detail/facundo-pellistri
-Men,Midfielders,34,Donny,van de Beek,Donny van de Beek,https://www.manutd.com/en/players-and-staff/detail/donny-van-de-beek
-Men,Midfielders,37,Kobbie,Mainoo,Kobbie Mainoo,https://www.manutd.com/en/players-and-staff/detail/kobbie-mainoo-mens-team
-Men,Midfielders,39,Scott,McTominay,Scott McTominay,https://www.manutd.com/en/players-and-staff/detail/scott-mctominay
-Men,Midfielders,44,Daniel,Gore,Daniel Gore,https://www.manutd.com/en/players-and-staff/detail/daniel-gore-first-team
-Men,Midfielders,46,,Hannibal, Hannibal,https://www.manutd.com/en/players-and-staff/detail/hannibal-mejbri
-Men,Midfielders,62,Omari,Forson,Omari Forson,https://www.manutd.com/en/players-and-staff/detail/omari-forson
-Men,Forwards,9,Anthony,Martial,Anthony Martial,https://www.manutd.com/en/players-and-staff/detail/anthony-martial
-Men,Forwards,10,Marcus,Rashford,Marcus Rashford,https://www.manutd.com/en/players-and-staff/detail/marcus-rashford
-Men,Forwards,11,Rasmus,Hojlund,Rasmus Hojlund,https://www.manutd.com/en/players-and-staff/detail/rasmus-hojlund
-Men,Forwards,17,Alejandro,Garnacho,Alejandro Garnacho,https://www.manutd.com/en/players-and-staff/detail/alejandro-garnacho
-Men,Forwards,21,Antony,,Antony ,https://www.manutd.com/en/players-and-staff/detail/antony
-Men,Forwards,25,Jadon,Sancho,Jadon Sancho,https://www.manutd.com/en/players-and-staff/detail/jadon-sancho
-Men,Forwards,47,Shola,Shoretire,Shola Shoretire,https://www.manutd.com/en/players-and-staff/detail/shola-shoretire
-Men,Forwards,,Mason,Greenwood,Mason Greenwood,https://www.manutd.com/en/players-and-staff/detail/mason-greenwood
-Women,Goalkeepers,27,Mary,Earps,Mary Earps,https://www.manutd.com/en/players-and-staff/detail/mary-earps
-Women,Goalkeepers,91,Phallon,Tullis-Joyce,Phallon Tullis-Joyce,https://www.manutd.com/en/players-and-staff/detail/phallon-tullis-joyce
-Women,Defenders,3,Gabby,George,Gabby George,https://www.manutd.com/en/players-and-staff/detail/gabby-george
-Women,Defenders,4,Maya,Le Tissier,Maya Le Tissier,https://www.manutd.com/en/players-and-staff/detail/maya-le-tissier
-Women,Defenders,5,Aoife,Mannion,Aoife Mannion,https://www.manutd.com/en/players-and-staff/detail/aoife-mannion
-Women,Defenders,6,Hannah,Blundell,Hannah Blundell,https://www.manutd.com/en/players-and-staff/detail/hannah-blundell
-Women,Defenders,14,Jayde,Riviere,Jayde Riviere,https://www.manutd.com/en/players-and-staff/detail/jayde-riviere
-Women,Defenders,15,Gemma,Evans,Gemma Evans,https://www.manutd.com/en/players-and-staff/detail/gemma-evans
-Women,Defenders,21,Millie,Turner,Millie Turner,https://www.manutd.com/en/players-and-staff/detail/millie-turner
-Women,Defenders,25,Evie,Rabjohn,Evie Rabjohn,https://www.manutd.com/en/players-and-staff/detail/evie-rabjohn
-Women,Midfielders,7,Ella,Toone,Ella Toone,https://www.manutd.com/en/players-and-staff/detail/ella-toone
-Women,Midfielders,8,Irene,Guerrero,Irene Guerrero,https://www.manutd.com/en/players-and-staff/detail/irene-guerrero
-Women,Midfielders,10,Katie,Zelem,Katie Zelem,https://www.manutd.com/en/players-and-staff/detail/katie-zelem
-Women,Midfielders,11,Leah,Galton,Leah Galton,https://www.manutd.com/en/players-and-staff/detail/leah-galton
-Women,Midfielders,12,Hayley,Ladd,Hayley Ladd,https://www.manutd.com/en/players-and-staff/detail/hayley-ladd
-Women,Midfielders,16,Lisa,Naalsund,Lisa Naalsund,https://www.manutd.com/en/players-and-staff/detail/lisa-naalsund
-Women,Midfielders,20,Hinata,Miyazawa,Hinata Miyazawa,https://www.manutd.com/en/players-and-staff/detail/hinata-miyazawa
-Women,Midfielders,26,Grace,Clinton,Grace Clinton,https://www.manutd.com/en/players-and-staff/detail/grace-clinton
-Women,Midfielders,34,Emma,Watson,Emma Watson,https://www.manutd.com/en/players-and-staff/detail/emma-watson
-Women,Forwards,9,Melvine,Malard,Melvine Malard,https://www.manutd.com/en/players-and-staff/detail/melvine-malard
-Women,Forwards,17,Lucia,Garcia,Lucia Garcia,https://www.manutd.com/en/players-and-staff/detail/lucia-garcia
-Women,Forwards,22,Nikita,Parris,Nikita Parris,https://www.manutd.com/en/players-and-staff/detail/nikita-parris
-Women,Forwards,23,Geyse,Da Silva Ferreira,Geyse Da Silva Ferreira,https://www.manutd.com/en/players-and-staff/detail/geyse-da-silva-ferreira
-Women,Forwards,28,Rachel,Williams,Rachel Williams,https://www.manutd.com/en/players-and-staff/detail/rachel-williams
-Under-21s,Goalkeepers,,Dermot,Mee,Dermot Mee,https://www.manutd.com/en/players-and-staff/detail/dermot-mee
-Under-21s,Goalkeepers,,Radek,Vitek,Radek Vitek,https://www.manutd.com/en/players-and-staff/detail/radek-vitek
-Under-21s,Goalkeepers,,Tom,Wooster,Tom Wooster,https://www.manutd.com/en/players-and-staff/detail/tom-wooster
-Under-21s,Defenders,48,Will,Fish,Will Fish,https://www.manutd.com/en/players-and-staff/detail/william-fish
-Under-21s,Defenders,53,Willy,Kambwala,Willy Kambwala,https://www.manutd.com/en/players-and-staff/detail/willy-kambwala
-Under-21s,Defenders,66,Rhys,Bennett,Rhys Bennett,https://www.manutd.com/en/players-and-staff/detail/rhys-bennett
-Under-21s,Defenders,80,Tyler,Fredricson,Tyler Fredricson,https://www.manutd.com/en/players-and-staff/detail/tyler-fredricson
-Under-21s,Defenders,,Sam,Murray,Sam Murray,https://www.manutd.com/en/players-and-staff/detail/sam-murray
-Under-21s,Defenders,,Sonny,Aljofree,Sonny Aljofree,https://www.manutd.com/en/players-and-staff/detail/sonny-aljofree
-Under-21s,Defenders,,Maximillian,Oyedele,Maximillian Oyedele,https://www.manutd.com/en/players-and-staff/detail/maximillian-oyedele
-Under-21s,Defenders,,Marcus,Lawrence,Marcus Lawrence,https://www.manutd.com/en/players-and-staff/detail/marcus-lawrence
-Under-21s,Midfielders,44,Daniel,Gore,Daniel Gore,https://www.manutd.com/en/players-and-staff/detail/daniel-gore
-Under-21s,Midfielders,65,Toby,Collyer,Toby Collyer,https://www.manutd.com/en/players-and-staff/detail/toby-collyer
-Under-21s,Midfielders,,Sam,Mather,Sam Mather,https://www.manutd.com/en/players-and-staff/detail/sam-mather
-Under-21s,Midfielders,,Tom,Huddlestone,Tom Huddlestone,https://www.manutd.com/en/players-and-staff/detail/tom-huddlestone
-Under-21s,Forwards,52,Joe,Hugill,Joe Hugill,https://www.manutd.com/en/players-and-staff/detail/joe-hugill
-Under-21s,Forwards,56,Charlie,McNeill,Charlie McNeill,https://www.manutd.com/en/players-and-staff/detail/charlie-mcneill
-Under-21s,Forwards,,Ethan,Ennis,Ethan Ennis,https://www.manutd.com/en/players-and-staff/detail/ethan-ennis
-Under-18s,Goalkeepers,50,Elyh,Harrison,Elyh Harrison,https://www.manutd.com/en/players-and-staff/detail/elyh-harrison
-Under-18s,Goalkeepers,,Thomas,Myles,Thomas Myles,https://www.manutd.com/en/players-and-staff/detail/thomas-myles
-Under-18s,Goalkeepers,,William,Murdock,William Murdock,https://www.manutd.com/en/players-and-staff/detail/william-murdock
-Under-18s,Defenders,,James,Nolan,James Nolan,https://www.manutd.com/en/players-and-staff/detail/james-nolan
-Under-18s,Defenders,,Jaydan,Kamason,Jaydan Kamason,https://www.manutd.com/en/players-and-staff/detail/jaydan-kamason
-Under-18s,Defenders,,Reece,Munro,Reece Munro,https://www.manutd.com/en/players-and-staff/detail/reece-munro
-Under-18s,Defenders,,Jack,Kingdon,Jack Kingdon,https://www.manutd.com/en/players-and-staff/detail/jack-kingdon
-Under-18s,Defenders,,Louis,Jackson,Louis Jackson,https://www.manutd.com/en/players-and-staff/detail/louis-jackson
-Under-18s,Defenders,,Harry,Amass,Harry Amass,https://www.manutd.com/en/players-and-staff/detail/harry-amass
-Under-18s,Defenders,,Habeeb,Ogunneye,Habeeb Ogunneye,https://www.manutd.com/en/players-and-staff/detail/habeeb-ogunneye
-Under-18s,Midfielders,,James,Scanlon,James Scanlon,https://www.manutd.com/en/players-and-staff/detail/james-scanlon
-Under-18s,Midfielders,,Finley,McAllister,Finley McAllister,https://www.manutd.com/en/players-and-staff/detail/finley-mcallister
-Under-18s,Midfielders,,Ruben,Curley,Ruben Curley,https://www.manutd.com/en/players-and-staff/detail/ruben-curley
-Under-18s,Midfielders,,Tyler,Fletcher,Tyler Fletcher,https://www.manutd.com/en/players-and-staff/detail/tyler-fletcher
-Under-18s,Midfielders,,Zach,Baumann,Zach Baumann,https://www.manutd.com/en/players-and-staff/detail/zachary-baumann
-Under-18s,Midfielders,,Ethan,Williams,Ethan Williams,https://www.manutd.com/en/players-and-staff/detail/ethan-williams
-Under-18s,Midfielders,,Jack,Fletcher,Jack Fletcher,https://www.manutd.com/en/players-and-staff/detail/jack-fletcher
-Under-18s,Midfielders,,Jack,Moorhouse,Jack Moorhouse,https://www.manutd.com/en/players-and-staff/detail/jack-moorhouse
-Under-18s,Midfielders,,Jayce,Fitzgerald,Jayce Fitzgerald,https://www.manutd.com/en/players-and-staff/detail/jayce-fitzgerald
-Under-18s,Midfielders,,Jacob,Devaney,Jacob Devaney,https://www.manutd.com/en/players-and-staff/detail/jacob-devaney
-Under-18s,Forwards,,Shea,Lacey,Shea Lacey,https://www.manutd.com/en/players-and-staff/detail/shea-lacey
-Under-18s,Forwards,,Victor,Musa,Victor Musa,https://www.manutd.com/en/players-and-staff/detail/victor-musa
-Under-18s,Forwards,,Malachi,Sharpe,Malachi Sharpe,https://www.manutd.com/en/players-and-staff/detail/malachi-sharpe
-Under-18s,Forwards,,Ashton,Missin,Ashton Missin,https://www.manutd.com/en/players-and-staff/detail/ashton-missin
-Under-18s,Forwards,,Gabriele,Biancheri,Gabriele Biancheri,https://www.manutd.com/en/players-and-staff/detail/gabriele-biancheri
-Under-18s,Forwards,,Sekou,Kaba,Sekou Kaba,https://www.manutd.com/en/players-and-staff/detail/sekou-kaba
-Under-18s,Forwards,,Ethan,Wheatley,Ethan Wheatley,https://www.manutd.com/en/players-and-staff/detail/ethan-wheatley
+Team,Position,Jersey Number,First Name,Last Name,Full Name,Link,Biography,Country,Birth
+Men,Goalkeeper,1,Altay,Bayindir,Altay Bayindir,https://www.manutd.com/en/players-and-staff/detail/altay-bayindir,"The goalkeeper arrives at Old Trafford with 166 career appearances and 53 clean sheets to his name, becoming Manchester United's first-ever Turkish player.",Turkey,14 Apr 1998
+Men,Goalkeeper,22,Tom,Heaton,Tom Heaton,https://www.manutd.com/en/players-and-staff/detail/tom-heaton,"After starting his career in the Manchester United Academy, Tom Heaton rejoined his boyhood club in the summer of 2021.",England,15 Apr 1986
+Men,Goalkeeper,24,Andre,Onana,Andre Onana,https://www.manutd.com/en/players-and-staff/detail/andre-onana,"Hailing from Nkol Ngok in Cameroon, Andre Onana has proven himself in Europe as a talented keeper who isn't shy to have the ball at his feet.",Cameroon,2 Apr 1996
+Men,Defender,2,Victor,Lindelof,Victor Lindelof,https://www.manutd.com/en/players-and-staff/detail/victor-lindelof,"Dealing with pressure is something that appears to come naturally to unflappable Swedish defender, Victor Lindelof.",Sweden,17 Jul 1994
+Men,Defender,5,Harry,Maguire,Harry Maguire,https://www.manutd.com/en/players-and-staff/detail/harry-maguire,Harry Maguire has risen through the leagues to establish himself as one of the most reliable centre-backs in the game.,England,5 Mar 1993
+Men,Defender,6,Lisandro,Martinez,Lisandro Martinez,https://www.manutd.com/en/players-and-staff/detail/lisandro-martinez,"A strong defender with an eye for a pass, Martinez has plenty of experience on the big stage.",Argentina,18 Jan 1998
+Men,Defender,12,Tyrell,Malacia,Tyrell Malacia,https://www.manutd.com/en/players-and-staff/detail/tyrell-malacia,"Dynamic and energetic, Tyrell Malacia possesses the traits needed to be a top-class defender.",Netherlands,17 Aug 1999
+Men,Defender,20,Diogo,Dalot,Diogo Dalot,https://www.manutd.com/en/players-and-staff/detail/diogo-dalot,Diogo Dalot remains a promising talent and has already achieved so much in his fledgling career.,Portugal,18 Mar 1999
+Men,Defender,23,Luke,Shaw,Luke Shaw,https://www.manutd.com/en/players-and-staff/detail/luke-shaw,"Luke Shaw joined Manchester United from Southampton in June 2014, making him one of the Reds’ longest-serving players.",England,12 Jul 1995
+Men,Defender,29,Aaron,Wan-Bissaka,Aaron Wan-Bissaka,https://www.manutd.com/en/players-and-staff/detail/aaron-wan-bissaka,Aaron Wan-Bissaka became Manchester United’s second signing of the summer transfer window in June 2019 when he joined from Crystal Palace.,England,26 Nov 1997
+Men,Defender,35,Jonny,Evans,Jonny Evans,https://www.manutd.com/en/players-and-staff/detail/jonny-evans,Northern Ireland international who came through the ranks at the club and made almost 200 first-team appearances under Sir Alex Ferguson.,Northern Ireland,3 Jan 1988
+Men,Defender,53,Willy,Kambwala,Willy Kambwala,https://www.manutd.com/en/players-and-staff/detail/willy-kambwala-first-team-profile,"After captaining France Under-16s, the centre-back arrived with a big reputation for his quality and leadership skills.",France,25 Aug 2004
+Men,Midfielder,4,Sofyan,Amrabat,Sofyan Amrabat,https://www.manutd.com/en/players-and-staff/detail/sofyan-amrabat,"Sofyan Amrabat is a Manchester United player for the 2023/24 term, having joined on a season-long loan from Italian side Fiorentina.",Morocco,21 Aug 1996
+Men,Midfielder,7,Mason,Mount,Mason Mount,https://www.manutd.com/en/players-and-staff/detail/mason-mount,England international and Champions League winner signed from Chelsea in July 2023.,England,10 Jan 1999
+Men,Midfielder,8,Bruno,Fernandes,Bruno Fernandes,https://www.manutd.com/en/players-and-staff/detail/bruno-fernandes,Bruno Fernandes took an unusual path to the top when compared to other Portuguese talents who have served Manchester United.,Portugal,8 Sep 1994
+Men,Midfielder,14,Christian,Eriksen,Christian Eriksen,https://www.manutd.com/en/players-and-staff/detail/christian-eriksen,"A creative midfielder with proven international pedigree, Eriksen knows the Premier League well.",Denmark,14 Feb 1992
+Men,Midfielder,16,Amad,,Amad ,https://www.manutd.com/en/players-and-staff/detail/amad-diallo,"Born in Abidjan, the biggest city in the Ivory Coast, Amad, as he prefers to be known, is one of the most talented young wingers on the European scene.",Ivory Coast,11 Jul 2002
+Men,Midfielder,18,Casemiro,,Casemiro ,https://www.manutd.com/en/players-and-staff/detail/casemiro,"Casemiro arrives at Old Trafford as one of the most respected and decorated midfielders of his generation, after forging his reputation with the great Real Madrid sides of the 2010s.",Brazil,23 Feb 1992
+Men,Midfielder,28,Facundo,Pellistri,Facundo Pellistri,https://www.manutd.com/en/players-and-staff/detail/facundo-pellistri,"Born in the Uruguayan capital of Montevideo, Pellistri is an exciting winger with bags of potential, who has been described as a ‘rascal’ on the pitch.",Uruguay,20 Dec 2001
+Men,Midfielder,34,Donny,van de Beek,Donny van de Beek,https://www.manutd.com/en/players-and-staff/detail/donny-van-de-beek,"Short of graduating from the Manchester United Academy, there can be few better places to hone your skills as an aspiring footballer than at Ajax.",Netherlands,18 Apr 1997
+Men,Midfielder,37,Kobbie,Mainoo,Kobbie Mainoo,https://www.manutd.com/en/players-and-staff/detail/kobbie-mainoo-mens-team,Creatively outstanding Stockport-born midfielder who has progressed from FA Youth Cup winner to senior England international in less than two years.,England,19 Apr 2005
+Men,Midfielder,39,Scott,McTominay,Scott McTominay,https://www.manutd.com/en/players-and-staff/detail/scott-mctominay,"An intelligent operator who can perform in midfield and attack, Scott McTominay was officially promoted to the senior squad at the start of the 2017/18 campaign.",Scotland,8 Dec 1996
+Men,Midfielder,44,Daniel,Gore,Daniel Gore,https://www.manutd.com/en/players-and-staff/detail/daniel-gore-first-team,Tenacious and skilled attacking midfielder for United and England.,England,26 Sep 2004
+Men,Midfielder,46,,Hannibal, Hannibal,https://www.manutd.com/en/players-and-staff/detail/hannibal-mejbri,Midfielder signed from Monaco towards the end of the summer transfer window in 2019.,Tunisia,21 Jan 2003
+Men,Forward,10,Marcus,Rashford,Marcus Rashford,https://www.manutd.com/en/players-and-staff/detail/marcus-rashford,Marcus Rashford was thrust into the senior spotlight in February 2016 – with spectacular results – and has not looked back since.,England,31 Oct 1997
+Men,Forward,11,Rasmus,Hojlund,Rasmus Hojlund,https://www.manutd.com/en/players-and-staff/detail/rasmus-hojlund,Denmark forward Rasmus Hojlund has had a meteoric rise at club and international level since making his professional debut at the age of 17.,Denmark,4 Feb 2003
+Men,Forward,17,Alejandro,Garnacho,Alejandro Garnacho,https://www.manutd.com/en/players-and-staff/detail/alejandro-garnacho,"Exciting winger, who signed from Atletico Madrid in 2020 and helped United win the FA Youth Cup before establishing himself in the first team while still a teenager.",Argentina,1 Jul 2004
+Men,Forward,21,Antony,,Antony ,https://www.manutd.com/en/players-and-staff/detail/antony,"A product of the São Paulo youth system, Antony has been honing his skills since he joined them in 2010.",Brazil,24 Feb 2000
+Men,Forward,25,Jadon,Sancho,Jadon Sancho,https://www.manutd.com/en/players-and-staff/detail/jadon-sancho,"In Jadon Sancho, Manchester United have a thrilling, tricky winger whose game is inspired by the dancing samba style of Brazil's greatest forwards and the gritty street football of south London.",England,25 Mar 2000
+Men,Forward,47,Shola,Shoretire,Shola Shoretire,https://www.manutd.com/en/players-and-staff/detail/shola-shoretire,"Shola has been playing up in age-groups, even before signing as a first-year scholar.",England,2 Feb 2004
+Men,Forward,,Mason,Greenwood,Mason Greenwood,https://www.manutd.com/en/players-and-staff/detail/mason-greenwood,An exciting striker who has been well ahead of schedule in terms of his progress through the ranks at Manchester United.,England,1 Oct 2001
+Women,Goalkeeper,39,Safia,Middleton-Patel,Safia Middleton-Patel,https://www.manutd.com/en/players-and-staff/detail/safia-middleton-patel,"After joining Manchester United from Liverpool in the summer of 2020, Safia Middleton-Patel enjoyed a successful first season with the Under-21 team winning the WSL Academy League and Cup double.",Wales,21 Sep 2004
+Women,Goalkeeper,91,Phallon,Tullis-Joyce,Phallon Tullis-Joyce,https://www.manutd.com/en/players-and-staff/detail/phallon-tullis-joyce,"""Manchester United is such an historic club, that has already done so much in the women’s game. I’m so honoured to get this opportunity.”",American,19 Oct 1996
+Women,Defender,3,Gabby,George,Gabby George,https://www.manutd.com/en/players-and-staff/detail/gabby-george,"A product of United Women's Centre of Excellence, George is an England international defender with a wealth of experience in the Women's Super League.",English,2 Feb 1997
+Women,Defender,4,Maya,Le Tissier,Maya Le Tissier,https://www.manutd.com/en/players-and-staff/detail/maya-le-tissier,An exciting young prospect who joined United as the WSL’s all-time record holder for appearances made as a teenager.,England,18 Apr 2002
+Women,Defender,5,Aoife,Mannion,Aoife Mannion,https://www.manutd.com/en/players-and-staff/detail/aoife-mannion,"A high-quality and versatile defender, Aoife brings Champions League experience to the group, having been involved in the competition with both Birmingham and Manchester City over the years.",English,24 Sep 1995
+Women,Defender,6,Hannah,Blundell,Hannah Blundell,https://www.manutd.com/en/players-and-staff/detail/hannah-blundell,"A full-back that wants to contribute at both ends of the pitch, Hannah Blundell arrived from Chelsea with four WSL titles and nearly a decade of top-flight experience to her name.",English,25 May 1994
+Women,Defender,14,Jayde,Riviere,Jayde Riviere,https://www.manutd.com/en/players-and-staff/detail/jayde-riviere,Jayde Riviere signed her first professional contract when joining Manchester United in January 2023.,Canadian,22 Jan 2001
+Women,Defender,15,Gemma,Evans,Gemma Evans,https://www.manutd.com/en/players-and-staff/detail/gemma-evans,"""A diehard defender, someone who will work hard, that will put my body on the line. I'll do anything to make myself and the team better.""",Wales,1 Aug 1996
+Women,Defender,21,Millie,Turner,Millie Turner,https://www.manutd.com/en/players-and-staff/detail/millie-turner,A born leader who will ensure the team are organised and compact.,English,7 Jul 1996
+Women,Defender,25,Evie,Rabjohn,Evie Rabjohn,https://www.manutd.com/en/players-and-staff/detail/evie-rabjohn,"At just 18 years old, Evie Rabjohn joined United as a highly touted defensive reinforcement after spending much of her youth career in the Midlands.",English,28 Apr 2005
+Women,Defender,38,Jess,Simpson,Jess Simpson,https://www.manutd.com/en/players-and-staff/detail/jess-simpson,Young defender Jess Simpson is an exciting talent who has progressed through the Academy at Manchester United.,England,13 Jan 2005
+Women,Midfielder,7,Ella,Toone,Ella Toone,https://www.manutd.com/en/players-and-staff/detail/ella-toone,"A born-and-bred-Red, Ella has been starring and scoring for United Women since our rebirth in 2018, although her national reputation ramped up during England's victorious Euro 2022 campaign.",English,2 Sep 1999
+Women,Midfielder,8,Irene,Guerrero,Irene Guerrero,https://www.manutd.com/en/players-and-staff/detail/irene-guerrero,A World Cup-winning midfielder with plenty of pedigree at the highest level.,Spanish,12 Dec 1996
+Women,Midfielder,11,Leah,Galton,Leah Galton,https://www.manutd.com/en/players-and-staff/detail/leah-galton,"Pacy and powerful, Galton is never more comfortable than when marauding down the flanks.",English,24 May 1994
+Women,Midfielder,12,Hayley,Ladd,Hayley Ladd,https://www.manutd.com/en/players-and-staff/detail/hayley-ladd,A selfless team player who is willing to fill in wherever the side need her.,Welsh,6 Oct 1993
+Women,Midfielder,16,Lisa,Naalsund,Lisa Naalsund,https://www.manutd.com/en/players-and-staff/detail/lisa-naalsund,Norway international Lisa Naalsund arrived at Manchester United in January 2023 with title-winning experience on her CV.,Norwegian,11 Jun 1995
+Women,Midfielder,20,Hinata,Miyazawa,Hinata Miyazawa,https://www.manutd.com/en/players-and-staff/detail/hinata-miyazawa,"2023 FIFA Women's World Cup Golden Boot winner Hinata Miyazawa is a dynamic midfielder, already equipped with a wealth of experience and international pedigree.",Japan,28 Nov 1999
+Women,Midfielder,26,Grace,Clinton,Grace Clinton,https://www.manutd.com/en/players-and-staff/detail/grace-clinton,"Already capped at Under-17, Under-19 and Under-23 level for England and with WSL experience, the future looks bright for Clinton.",England,31 Mar 2003
+Women,Midfielder,34,Emma,Watson,Emma Watson,https://www.manutd.com/en/players-and-staff/detail/emma-watson,"A full international for Scotland by the age of 17, Emma Watson is an exciting young talent who brings energy and enthusiasm to United's midfield ranks.",Scotland,28 Jan 2006
+Women,Forward,9,Melvine,Malard,Melvine Malard,https://www.manutd.com/en/players-and-staff/detail/melvine-malard,A four-time Women's Champions League winner with a proven record of winning.,French,28 Jun 2000
+Women,Forward,22,Nikita,Parris,Nikita Parris,https://www.manutd.com/en/players-and-staff/detail/nikita-parris,"A top-class forward who arrived at United with experience, quality and a winning reputation, both at club and international level.",England,10 Mar 1994
+Women,Forward,23,Geyse,Da Silva Ferreira,Geyse Da Silva Ferreira,https://www.manutd.com/en/players-and-staff/detail/geyse-da-silva-ferreira,"An experienced international with proven pedigree on Europe's biggest stage, Geyse is a forward with an eye for goal and superb skill.",Brazil,27 Mar 1998
+Women,Forward,28,Rachel,Williams,Rachel Williams,https://www.manutd.com/en/players-and-staff/detail/rachel-williams,The vastly experienced forward reunited with Marc Skinner upon becoming a Red in July 2022.,England,10 Jan 1988
+Women,Forward,36,Alyssa,Aherne,Alyssa Aherne,https://www.manutd.com/en/players-and-staff/detail/alyssa-aherne,"After joining Manchester United’s Academy at the age of 13, Alyssa Aherne signed her first professional contract in May 2023.",N/A,22 Feb 2004
+Under-21s,Goalkeeper,,Dermot,Mee,Dermot Mee,https://www.manutd.com/en/players-and-staff/detail/dermot-mee,Birmingham-born Northern Irish goalkeeper who has trained regularly with the first team.,Northern Ireland,20 Nov 2002
+Under-21s,Goalkeeper,,Radek,Vitek,Radek Vitek,https://www.manutd.com/en/players-and-staff/detail/radek-vitek,A highly-driven Czech Republic goalkeeper who joined United in 2020 from Sigma Olomouc in his homeland.,Czech Republic,24 Oct 2003
+Under-21s,Goalkeeper,,Tom,Wooster,Tom Wooster,https://www.manutd.com/en/players-and-staff/detail/tom-wooster,Yorkshire-born goalkeeper who joined from Barnsley in 2021.,England,30 Mar 2005
+Under-21s,Defender,48,Will,Fish,Will Fish,https://www.manutd.com/en/players-and-staff/detail/william-fish,"Tall, strong centre-back who has captained United's youth teams at various levels.",England,17 Feb 2003
+Under-21s,Defender,53,Willy,Kambwala,Willy Kambwala,https://www.manutd.com/en/players-and-staff/detail/willy-kambwala,"After captaining France Under-16s, the centre-back arrived with a big reputation for his quality and leadership skills.",France,25 Aug 2004
+Under-21s,Defender,66,Rhys,Bennett,Rhys Bennett,https://www.manutd.com/en/players-and-staff/detail/rhys-bennett,"Under-18s captain who joined the club at a young age and grew up in Denton, Manchester.",England,30 Oct 2003
+Under-21s,Defender,80,Tyler,Fredricson,Tyler Fredricson,https://www.manutd.com/en/players-and-staff/detail/tyler-fredricson,2005-born England Under-17 international who rarely puts a foot wrong in defence.,England,23 Feb 2005
+Under-21s,Defender,,Marcus,Lawrence,Marcus Lawrence,https://www.manutd.com/en/players-and-staff/detail/marcus-lawrence,Mancunian defender who is one of the Under-17s in the squad.,England,24 Jun 2005
+Under-21s,Defender,,Sam,Murray,Sam Murray,https://www.manutd.com/en/players-and-staff/detail/sam-murray,An attacking full-back who joined from Huddersfield Town at U15 level.,England,25 Sep 2004
+Under-21s,Defender,,Maximillian,Oyedele,Maximillian Oyedele,https://www.manutd.com/en/players-and-staff/detail/maximillian-oyedele,Versatile Salford-born Poland Under-18 international.,Poland,7 Nov 2004
+Under-21s,Defender,,Sonny,Aljofree,Sonny Aljofree,https://www.manutd.com/en/players-and-staff/detail/sonny-aljofree,Plymouth-born defender who has risen through the ranks at United.,England,19 Dec 2004
+Under-21s,Midfielder,44,Daniel,Gore,Daniel Gore,https://www.manutd.com/en/players-and-staff/detail/daniel-gore,Tenacious and skilled attacking midfield for United and England.,England,26 Sep 2004
+Under-21s,Midfielder,65,Toby,Collyer,Toby Collyer,https://www.manutd.com/en/players-and-staff/detail/toby-collyer,Former Brighton & Hove Albion midfielder who joined the club in 2022.,England,3 Jan 2004
+Under-21s,Midfielder,,Tom,Huddlestone,Tom Huddlestone,https://www.manutd.com/en/players-and-staff/detail/tom-huddlestone,Former England international appointed as playing coach for the Under-21s in August 2022.,England,28 Dec 1986
+Under-21s,Midfielder,,Sam,Mather,Sam Mather,https://www.manutd.com/en/players-and-staff/detail/sam-mather,Salford-born Red who plays on the wing.,England,3 Sep 2004
+Under-21s,Forward,52,Joe,Hugill,Joe Hugill,https://www.manutd.com/en/players-and-staff/detail/joe-hugill,A summer 2020 arrival at United from Sunderland.,England,19 Oct 2003
+Under-21s,Forward,,Ethan,Ennis,Ethan Ennis,https://www.manutd.com/en/players-and-staff/detail/ethan-ennis,Runcorn-born former Liverpool Academy prospect who joined United in the summer of 2021.,England,11 Dec 2004
+Under-18s,Goalkeeper,50,Elyh,Harrison,Elyh Harrison,https://www.manutd.com/en/players-and-staff/detail/elyh-harrison,Young keeper who joined the club in the summer of 2022.,England,19 Feb 2006
+Under-18s,Goalkeeper,,Thomas,Myles,Thomas Myles,https://www.manutd.com/en/players-and-staff/detail/thomas-myles,"Young keeper, who hails from Preston.",England,17 Nov 2005
+Under-18s,Goalkeeper,,William,Murdock,William Murdock,https://www.manutd.com/en/players-and-staff/detail/william-murdock,Yorkshire-born keeper who joined United's Academy in 2023.,N/A,26 May 2007
+Under-18s,Defender,,Reece,Munro,Reece Munro,https://www.manutd.com/en/players-and-staff/detail/reece-munro,A London-born defender capable of playing at centre-back and full-back.,English,16 Dec 2006
+Under-18s,Defender,,Louis,Jackson,Louis Jackson,https://www.manutd.com/en/players-and-staff/detail/louis-jackson,Centre-back who was drafted into the FA Youth Cup final team and performed superbly against Nottingham Forest as the Reds lifted the trophy.,Scotland,18 Sep 2005
+Under-18s,Defender,,Jaydan,Kamason,Jaydan Kamason,https://www.manutd.com/en/players-and-staff/detail/jaydan-kamason,Versatile defender who has risen within United's youth ranks.,English,8 Dec 2006
+Under-18s,Defender,,Habeeb,Ogunneye,Habeeb Ogunneye,https://www.manutd.com/en/players-and-staff/detail/habeeb-ogunneye,London-born defender who made a breakthrough into the Under-18s in 2021/22.,England,12 Nov 2005
+Under-18s,Defender,,Harry,Amass,Harry Amass,https://www.manutd.com/en/players-and-staff/detail/harry-amass,Defender from London who arrived at United after starting his career at Watford.,England,16 Mar 2007
+Under-18s,Defender,,Jack,Kingdon,Jack Kingdon,https://www.manutd.com/en/players-and-staff/detail/jack-kingdon,Centre-back who was formerly with Morecambe.,Scotland,16 Nov 2005
+Under-18s,Defender,,James,Nolan,James Nolan,https://www.manutd.com/en/players-and-staff/detail/james-nolan,Promising right-back who was born in Chorley.,England,2 Oct 2005
+Under-18s,Midfielder,,Ethan,Williams,Ethan Williams,https://www.manutd.com/en/players-and-staff/detail/ethan-williams,Mancunian midfielder who has come through the Academy.,England,14 Nov 2005
+Under-18s,Midfielder,,Tyler,Fletcher,Tyler Fletcher,https://www.manutd.com/en/players-and-staff/detail/tyler-fletcher,Manchester-born midfielder who started his career at United's rivals Manchester City.,N/A,19 Mar 2007
+Under-18s,Midfielder,,Ruben,Curley,Ruben Curley,https://www.manutd.com/en/players-and-staff/detail/ruben-curley,Local lad who operates in midfield.,England,5 Sep 2005
+Under-18s,Midfielder,,James,Scanlon,James Scanlon,https://www.manutd.com/en/players-and-staff/detail/james-scanlon,"Starting out in Derby County's youth system, the midfielder arrived at United's Academy in 2023.",Gibraltan,28 Sep 2006
+Under-18s,Midfielder,,Zach,Baumann,Zach Baumann,https://www.manutd.com/en/players-and-staff/detail/zachary-baumann,Midfielder who has been with Manchester United since his childhood.,England,2 Jan 2007
+Under-18s,Midfielder,,Finley,McAllister,Finley McAllister,https://www.manutd.com/en/players-and-staff/detail/finley-mcallister,Salford-born midfielder who represents England at Under-17s level.,England,16 Jul 2006
+Under-18s,Midfielder,,Jack,Fletcher,Jack Fletcher,https://www.manutd.com/en/players-and-staff/detail/jack-fletcher,Manchester-born midfielder who arrived from Manchester City in 2023.,N/A,19 Mar 2007
+Under-18s,Midfielder,,Jack,Moorhouse,Jack Moorhouse,https://www.manutd.com/en/players-and-staff/detail/jack-moorhouse,Manchester-born midfielder who works hard in the engine room.,England,29 Nov 2005
+Under-18s,Midfielder,,Jacob,Devaney,Jacob Devaney,https://www.manutd.com/en/players-and-staff/detail/jacob-devaney,Yorkshire-born midfielder who has risen through the ranks at United.,England,11 Jun 2007
+Under-18s,Midfielder,,Jayce,Fitzgerald,Jayce Fitzgerald,https://www.manutd.com/en/players-and-staff/detail/jayce-fitzgerald,"Growing up in Salford, Jayce Fitzgerald has played for Manchester United since his childhood.",England,9 May 2007
+Under-18s,Forward,,Ashton,Missin,Ashton Missin,https://www.manutd.com/en/players-and-staff/detail/ashton-missin,Halifax-born forward who moved up to the Under-18s in the summer of 2022.,England,15 Aug 2006
+Under-18s,Forward,,Ethan,Wheatley,Ethan Wheatley,https://www.manutd.com/en/players-and-staff/detail/ethan-wheatley,Stockport-born striker.,England,20 Jan 2006
+Under-18s,Forward,,Sekou,Kaba,Sekou Kaba,https://www.manutd.com/en/players-and-staff/detail/sekou-kaba,Exciting forward who started his career in Derby County's youth system.,N/A,28 Mar 2007
+Under-18s,Forward,,Malachi,Sharpe,Malachi Sharpe,https://www.manutd.com/en/players-and-staff/detail/malachi-sharpe,"Born in Nottingham, the lively attacker was formerly with Derby County.",Scotland,20 Nov 2005
+Under-18s,Forward,,Shea,Lacey,Shea Lacey,https://www.manutd.com/en/players-and-staff/detail/shea-lacey,Left-footed winger who hails from Liverpool and has represented England at youth levels.,England,14 Apr 2007
+Under-18s,Forward,,Victor,Musa,Victor Musa,https://www.manutd.com/en/players-and-staff/detail/victor-musa,Spanish-born forward who has risen through the ranks at United.,Spain,5 Sep 2006
+Under-18s,Forward,,Gabriele,Biancheri,Gabriele Biancheri,https://www.manutd.com/en/players-and-staff/detail/gabriele-biancheri,Wales youth international who started his career at Cardiff before moving to Manchester United.,N/A,18 Sep 2006
+Legends,Midfielder,,Ryan,Giggs,Ryan Giggs,https://www.manutd.com/en/players-and-staff/detail/ryan-giggs,"Ryan Giggs closed one chapter of his football career - the epic, decades-spanning story of him as a player - on the same day he started a new one, as Manchester United’s new assistant manager.",Wales,29 Nov 1973
+Legends,Forward,,Bobby,Charlton,Bobby Charlton,https://www.manutd.com/en/players-and-staff/detail/sir-bobby-charlton,"Nobody embodied the values of Manchester United better than Sir Bobby Charlton. Having survived the trauma of the Munich Air Disaster when aged just 20, he played as if every game was for his fallen colleagues, recovering from his injuries to reach the pinnacle for both club and country. In a 17-year playing career with the Reds, he played 758 games and scored 249 goals - both of which were longstanding records until, respectively, Ryan Giggs in 2008 and Wayne Rooney in 2017 surpassed his feats.",England,11 Oct 1937
+Legends,Midfielder,,Paul,Scholes,Paul Scholes,https://www.manutd.com/en/players-and-staff/detail/paul-scholes,You must have a rare and special football talent to impress the great Sir Bobby Charlton.,England,16 Nov 1974
+Legends,Defender,,Bill,Foulkes,Bill Foulkes,https://www.manutd.com/en/players-and-staff/detail/bill-foulkes,"Bill Foulkes will always be remembered as a loyal and legendary servant of Manchester United, after an epic playing career which spanned a remarkable 18 seasons.",England,5 Jan 1932
+Legends,Defender,,Gary,Neville,Gary Neville,https://www.manutd.com/en/players-and-staff/detail/gary-neville,"Gary Neville called time on an illustrious playing career on 2 February 2011, almost 20 years after making his debut for United.",England,18 Feb 1975
+Legends,Forward,,Wayne,Rooney,Wayne Rooney,https://www.manutd.com/en/players-and-staff/detail/wayne-rooney,Wayne Rooney is Manchester United's all-time leading scorer and the only player to have scored 250 goals for the Reds.,England,24 Oct 1985
+Legends,Goalkeeper,,David,De Gea,David De Gea,https://www.manutd.com/en/players-and-staff/detail/de-gea,"Since making the switch from hometown club Atletico Madrid in the summer of 2011, David De Gea’s Manchester United career has seen him mature from an exciting prospect into an Old Trafford great and one of the top goalkeepers of the modern era.",Spain,7 Nov 1990
+Legends,Goalkeeper,,Alex,Stepney,Alex Stepney,https://www.manutd.com/en/players-and-staff/detail/alex-stepney,Alex Stepney earned Old Trafford immortality the night Manchester United became European champions in 1968.,England,18 Sep 1942
+Legends,Defender,,Tony,Dunne,Tony Dunne,https://www.manutd.com/en/players-and-staff/detail/tony-dunne,"An unsung hero of Sir Matt Busby's trailblazing side of the 1960s, Tony Dunne is one of the greatest full-backs in the club’s history.",Republic of Ireland,25 Jul 1941
+Legends,Defender,,Denis,Irwin,Denis Irwin,https://www.manutd.com/en/players-and-staff/detail/denis-irwin,"One of the modern Manchester United greats, Denis Irwin’s career was one of steady progression to the biggest stage for club and country – where he proved a natural, if often underrated performer, offering sterling service at left-back, with a keen eye for goal.",Republic of Ireland,31 Oct 1965
+Legends,Forward,,Joe,Spence,Joe Spence,https://www.manutd.com/en/players-and-staff/detail/joe-spence,"One of Manchester United’s few true stars between the wars, Joe Spence's scintillating wing play made ""Give it to Joe"" the most regularly aired terrace chant during his 14 years at Old Trafford. Indeed, such was his stature in football, he was known locally as ‘Mr Soccer’.",England,15 Dec 1898
+Legends,Defender,,Arthur,Albiston,Arthur Albiston,https://www.manutd.com/en/players-and-staff/detail/arthur-albiston,"Only a handful of players have represented Manchester United more times than this reliable, consistent Scottish left-back.",Scotland,14 Jul 1957
+Legends,Midfielder,,Roy,Keane,Roy Keane,https://www.manutd.com/en/players-and-staff/detail/roy-keane,"Sir Alex Ferguson labelled him the best he ever worked with, aspiring footballers and Reds everywhere worshipped the ground he walked on: Roy Keane epitomised the unwavering spirit and desire to succeed that Manchester United stands for.",Republic of Ireland,10 Aug 1971
+Legends,Forward,,Brian,McClair,Brian McClair,https://www.manutd.com/en/players-and-staff/detail/brian-mcclair,Brian McClair booked his place in the annals of Old Trafford history when he became the first player since George Best to score 20 league goals for the Reds.,Scotland,8 Dec 1963
+Legends,Forward,,George,Best,George Best,https://www.manutd.com/en/players-and-staff/detail/george-best,"“If I’d been born ugly, you’d never have heard of Pelé.” Many a true word is spoken in jest, and few would argue George Best was the most naturally gifted footballer Britain has produced.",Northern Ireland,22 May 1946
+Legends,Forward,,Mark,Hughes,Mark Hughes,https://www.manutd.com/en/players-and-staff/detail/mark-hughes,Mark Hughes made a habit of doing things his own way throughout a brilliant career.,Wales,1 Nov 1963
+Legends,Midfielder,,Michael,Carrick,Michael Carrick,https://www.manutd.com/en/players-and-staff/detail/michael-carrick,"Michael Carrick retired from playing at the end of the 2017/18 season, bringing the curtain down on one of the most distinguished football careers in the modern era.",England,29 Jul 1981
+Legends,Midfielder,,Bryan,Robson,Bryan Robson,https://www.manutd.com/en/players-and-staff/detail/bryan-robson,It was a fitting climax to United's 1992/93 FA Premier League championship season when Bryan Robson scored the campaign's last goal to clinch a 2-1 victory against Wimbledon at Selhurst Park.,England,11 Jan 1957
+Legends,Defender,,Martin,Buchan,Martin Buchan,https://www.manutd.com/en/players-and-staff/detail/martin-buchan,For a decade Martin Buchan was arguably United's most influential player.,Scotland,6 Mar 1949
+Legends,Defender,,Rio,Ferdinand,Rio Ferdinand,https://www.manutd.com/en/players-and-staff/detail/rio-ferdinand,Rio Ferdinand proved himself to be one of the finest defenders in world football during 12 successful years at Manchester United.,England,7 Nov 1978
+Legends,Defender,,Jack,Silcock,Jack Silcock,https://www.manutd.com/en/players-and-staff/detail/jack-silcock,"He may not be a household name, but Jack Silcock was one of United’s most loyal and dependable players for 15 years between the wars.",England,15 Jun 1898
+Legends,Defender,,Gary,Pallister,Gary Pallister,https://www.manutd.com/en/players-and-staff/detail/gary-pallister,"A pacy defender with excellent aerial ability and terrific ball control given his towering 6ft 4in frame, Gary Pallister formed half of arguably the greatest central defensive partnership the club has known.",England,30 Jun 1965
+Legends,Forward,,Jack,Rowley,Jack Rowley,https://www.manutd.com/en/players-and-staff/detail/jack-rowley,"With a lethal left foot that earned him the nickname ‘Gunner’, Jack Rowley fired the Reds to glory in the post-War years as Matt Busby’s United masterplan came to fruition.",England,7 Oct 1920
+Legends,Forward,,Sammy,McIlroy,Sammy McIlroy,https://www.manutd.com/en/players-and-staff/detail/sammy-mcilroy,"Debuts don't come much more unnerving than the Manchester derby, but the 17-year-old Sammy McIlroy came through his baptism of fire with flying colours - scoring once and assisting twice at Maine Road to instantly endear himself to the United faithful.",Northern Irish,2 Aug 1954
+Legends,Defender,,Steve,Bruce,Steve Bruce,https://www.manutd.com/en/players-and-staff/detail/steve-bruce,"Pound for pound, the £825,000 Alex Ferguson paid Norwich City for this craggy, uncompromising centre-half two weeks short of his 27th birthday in December 1987, was one of the best deals Manchester United have ever done.",England,31 Dec 1960
+Legends,Forward,,Wayne,Rooney,Wayne Rooney,https://www.manutd.com/en/players-and-staff/detail/wayne-rooney,Wayne Rooney is Manchester United's all-time leading scorer and the only player to have scored 250 goals for the Reds.,England,24 Oct 1985
+Legends,Forward,,Bobby,Charlton,Bobby Charlton,https://www.manutd.com/en/players-and-staff/detail/sir-bobby-charlton,"Nobody embodied the values of Manchester United better than Sir Bobby Charlton. Having survived the trauma of the Munich Air Disaster when aged just 20, he played as if every game was for his fallen colleagues, recovering from his injuries to reach the pinnacle for both club and country. In a 17-year playing career with the Reds, he played 758 games and scored 249 goals - both of which were longstanding records until, respectively, Ryan Giggs in 2008 and Wayne Rooney in 2017 surpassed his feats.",England,11 Oct 1937
+Legends,Forward,,Denis,Law,Denis Law,https://www.manutd.com/en/players-and-staff/detail/denis-law,"Denis Law is the only man to have two statues dedicated to him at Old Trafford – one on the Stretford End concourse, the other as part of the United Trinity statue overlooking the stadium’s forecourt where he’s immortalised alongside fellow great George Best and Sir Bobby Charlton. Both stand as testament to one of the Reds’ true living legends.",Scotland,24 Feb 1940
+Legends,Forward,,Jack,Rowley,Jack Rowley,https://www.manutd.com/en/players-and-staff/detail/jack-rowley,"With a lethal left foot that earned him the nickname ‘Gunner’, Jack Rowley fired the Reds to glory in the post-War years as Matt Busby’s United masterplan came to fruition.",England,7 Oct 1920
+Legends,Forward,,Dennis,Viollet,Dennis Viollet,https://www.manutd.com/en/players-and-staff/detail/dennis-viollet,"Many great strikers have graced the Old Trafford stage, but none has matched Dennis Viollet’s 32 league goals in the 1959/60 season.",England,20 Sep 1933
+Legends,Forward,,George,Best,George Best,https://www.manutd.com/en/players-and-staff/detail/george-best,"“If I’d been born ugly, you’d never have heard of Pelé.” Many a true word is spoken in jest, and few would argue George Best was the most naturally gifted footballer Britain has produced.",Northern Ireland,22 May 1946
+Legends,Midfielder,,Ryan,Giggs,Ryan Giggs,https://www.manutd.com/en/players-and-staff/detail/ryan-giggs,"Ryan Giggs closed one chapter of his football career - the epic, decades-spanning story of him as a player - on the same day he started a new one, as Manchester United’s new assistant manager.",Wales,29 Nov 1973
+Legends,Forward,,Joe,Spence,Joe Spence,https://www.manutd.com/en/players-and-staff/detail/joe-spence,"One of Manchester United’s few true stars between the wars, Joe Spence's scintillating wing play made ""Give it to Joe"" the most regularly aired terrace chant during his 14 years at Old Trafford. Indeed, such was his stature in football, he was known locally as ‘Mr Soccer’.",England,15 Dec 1898
+Legends,Forward,,Mark,Hughes,Mark Hughes,https://www.manutd.com/en/players-and-staff/detail/mark-hughes,Mark Hughes made a habit of doing things his own way throughout a brilliant career.,Wales,1 Nov 1963
+Legends,Midfielder,,Paul,Scholes,Paul Scholes,https://www.manutd.com/en/players-and-staff/detail/paul-scholes,You must have a rare and special football talent to impress the great Sir Bobby Charlton.,England,16 Nov 1974
+Legends,Forward,,Ruud,van Nistelrooy,Ruud van Nistelrooy,https://www.manutd.com/en/players-and-staff/detail/ruud-van-nistelrooy,"A prolific goal-getter, Ruud van Nistelrooy’s scoring exploits at Old Trafford have safeguarded his place in United folklore.",Netherlands,1 Jul 1976
+Legends,Forward,,Stan,Pearson,Stan Pearson,https://www.manutd.com/en/players-and-staff/detail/stan-pearson,"Though the war played havoc with his United career, Stan Pearson’s talents at inside-forward made him one of the brightest stars in the club's firmament when hostilities ceased.",England,11 Jan 1919
+Legends,Forward,,Cristiano,Ronaldo,Cristiano Ronaldo,https://www.manutd.com/en/players-and-staff/detail/cristiano-ronaldo,"Cristiano Ronaldo exhausted all superlatives during his first spell with Manchester United, while he matured from an inexperienced, young winger in 2003 into officially the best footballer on the planet in 2009.",Portugal,5 Feb 1985
+Legends,Forward,,David,Herd,David Herd,https://www.manutd.com/en/players-and-staff/detail/david-herd,"Few United players have known how to find the net better than David Herd. In seven years at Old Trafford, he scored 145 times in 265 appearances.",Scotland,15 Apr 1934
+Legends,Forward,,Tommy,Taylor,Tommy Taylor,https://www.manutd.com/en/players-and-staff/detail/tommy-taylor,Tommy Taylor is regarded by those who saw him play as the greatest centre-forward ever to represent Manchester United and England.,England,29 Jan 1932
+Legends,Forward,,Brian,McClair,Brian McClair,https://www.manutd.com/en/players-and-staff/detail/brian-mcclair,Brian McClair booked his place in the annals of Old Trafford history when he became the first player since George Best to score 20 league goals for the Reds.,Scotland,8 Dec 1963
+Legends,Forward,,Ole,Solskjaer,Ole Solskjaer,https://www.manutd.com/en/players-and-staff/detail/ole-gunnar-solskjaer,Ole Gunnar Solskjaer reluctantly called time on his United playing career on 28 August 2007 – 11 years and three days after it began with a goalscoring debut.,Norway,26 Feb 1973
+Legends,Forward,,Andy,Cole,Andy Cole,https://www.manutd.com/en/players-and-staff/detail/andy-cole,Any Reds wishing Alex Ferguson had plumped for Nottingham Forest’s Stan Collymore when he went shopping for a new striker in the January 1995 sales were forced to eat their hats over Andy Cole.,England,15 Oct 1971
+Legends,Forward,,Sandy,Turnbull,Sandy Turnbull,https://www.manutd.com/en/players-and-staff/detail/sandy-turnbull,"Before Eric Cantona and Lee Martin, Jimmy Greenhoff and David Herd, there was Sandy Turnbull.",Scotland,30 Jul 1872
+Legends,Forward,,George,Wall,George Wall,https://www.manutd.com/en/players-and-staff/detail/george-wall,"Ryan Giggs patrolled the left flank for United for more than two decades, but a century ago that was George Wall’s job.",England,20 Feb 1885
+Legends,Forward,,Joe,Cassidy,Joe Cassidy,https://www.manutd.com/en/players-and-staff/detail/joe-cassidy,"Like Eric Cantona in 1992/93, Joe Cassidy in 1892/93 was a crucial mid-season signing.",Scotland,30 Jul 1872
+Legends,Midfielder,,Bryan,Robson,Bryan Robson,https://www.manutd.com/en/players-and-staff/detail/bryan-robson,It was a fitting climax to United's 1992/93 FA Premier League championship season when Bryan Robson scored the campaign's last goal to clinch a 2-1 victory against Wimbledon at Selhurst Park.,England,11 Jan 1957
+Legends,Midfielder,,Lou,Macari,Lou Macari,https://www.manutd.com/en/players-and-staff/detail/lou-macari,Lou Macari enjoyed 12 memorable years at Old Trafford – but so nearly ended up a Liverpool player.,Scotland,7 Jun 1949
+Legends,Midfielder,,David,Beckham,David Beckham,https://www.manutd.com/en/players-and-staff/detail/david-beckham,"Arguably one of world football’s biggest names, David Beckham is a global phenomenon but a part of him will be forever Red.",England,2 May 1975
+Legends,Forward,,Eric,Cantona,Eric Cantona,https://www.manutd.com/en/players-and-staff/detail/eric-cantona,"“Le Roi”.“Le Dieu”. Or good old – but never, ever, plain old – Eric. Whatever you want to call Monsieur Cantona, the Frenchman’s four-and-a-half seasons at Old Trafford are the stuff of legend.",France,24 May 1966

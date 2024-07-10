@@ -1,4 +1,4 @@
-Proyek ini berisi skrip Python untuk melakukan web scraping informasi tentang pemain Manchester United dari situs resmi mereka. Skrip ini mengumpulkan data dari berbagai kategori tim, termasuk tim utama, tim wanita, u-21, dan u-18.
+Proyek ini berisi skrip Python untuk melakukan web scraping informasi tentang pemain Manchester United dari situs resmi mereka. Skrip ini mengumpulkan data dari berbagai kategori tim, termasuk tim utama, tim wanita, u-21, u-18, dan legend.
 
 ## Fitur
 
